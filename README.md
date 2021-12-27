@@ -1,8 +1,10 @@
 # Data Network Simulations
 
+`These assignments were part of my undergrad coursework at Sharif UT. I delivered the aodv assignment, and designed p2p_file_sharing assignment in the following term as TA`
+
+
 Minimalist simulations of two networks using socket programming in python: Ad hoc On-Demand Distance Vector Routing for mobile network, and peer-to-peer file sharing network.
 
-P.S.: These were Data Network Course Projects. I, as the TA of the course, have designed the second simualtion.
 
 ## AODV network
 ### Explanation
